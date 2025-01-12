@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "Recipe Generator Extension",
+    "version": "1.0",
+    "description": "Get a random dessert recipe!",
+    "permissions": [
+      "activeTab",
+      "https://spoonacular-recipe-food-nutrition-v1.p.rapidapi.com/"
+    ],
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Random Dessert Generator"
+    },
+    "host_permissions": [
+      "https://spoonacular-recipe-food-nutrition-v1.p.rapidapi.com/"
+    ]
+}
