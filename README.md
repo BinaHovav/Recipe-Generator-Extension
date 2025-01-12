@@ -1,6 +1,6 @@
 
+<img width="960" alt="Screenshot 2025-01-12 at 11 40 06" src="https://github.com/user-attachments/assets/72bd56a8-c834-4837-b975-dd0946c8a955" />
 
-![Uploading Screenshot 2025-01-12 at 11.40.06.png…]()
 # Random Recipes Extension
 
 This Chrome extension fetches and displays a random vegetarian dessert recipe each time you click on the extension's icon. The recipe is pulled from the Spoonacular API, which provides recipe and food-related data.
