@@ -13,21 +13,17 @@ async function fetchData() {
         const result = await response.json(); 
         const recipe = result.recipes[0]; 
 
-        // Display recipe in the browser
         const container = document.getElementById('recipe-container');
 
-        // Create and append title
         const title = document.createElement('h2');
         title.textContent = recipe.title;
         container.appendChild(title);
 
-        // Create and append image
         const image = document.createElement('img');
         image.src = recipe.image;
         image.alt = recipe.title;
         container.appendChild(image);
 
-        // Create and append summary
         const summary = document.createElement('p');
         summary.innerHTML = `<strong>Summary:</strong> ${recipe.summary}`;
         container.appendChild(summary);
