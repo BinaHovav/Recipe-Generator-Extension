@@ -29,3 +29,8 @@ Follow these steps to install and test the extension on your local machine.
 
 ```bash
 git clone https://github.com/your-username/random-recipes-extension.git
+
+## Created by  
+[Bina Hovav](https://www.linkedin.com/in/bina-hovav/)
+
+
