@@ -11,7 +11,7 @@ body {
     font-family: Arial, sans-serif;
 }
 
-#recipe-container {
+.recipe-container {
     width: 90%; 
     height: auto;
     max-height: 90%; 
