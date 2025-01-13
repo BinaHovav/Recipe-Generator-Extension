@@ -8,13 +8,13 @@ This is a simple project for beginners who want to try out developing a simple c
 My recommendation is to clone the repo, and play around with an API which interests you, and then go on and develop further features.
 Hope you enjoy this :)
 
-# Random Recipes Extension
+# Random Desserts Recipes Extension
 
 This Chrome extension fetches and displays a random dessert recipe each time you click on the extension's icon. The recipe is pulled from the Spoonacular API, which provides recipe and food-related data.
 
 ## Features
 
-- Fetches a random vegetarian dessert recipe.
+- Fetches a random dessert recipe.
 - Displays recipe title, image, and summary in a neat, responsive popup.
 - Easy to use and simple interface.
 
